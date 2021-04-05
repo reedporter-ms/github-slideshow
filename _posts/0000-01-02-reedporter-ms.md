@@ -3,7 +3,7 @@
 ---
 
 layout:slide
-
+Done beats perfect
 title: "Welcome to our second slide!"
 
 ---
